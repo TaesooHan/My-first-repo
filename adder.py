@@ -1,2 +1,4 @@
-print("It works")
+fir i in range(1,20+1):
+    print("It works")
+
 
